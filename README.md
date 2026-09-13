@@ -1,7 +1,7 @@
 # Protolude
 ## Dans la première scène
 Il faut:
-- Prendre la pioche pour détruire la montagne de roche (celui avec le texte qui dit ''Il y a quelque chose dans la roche'');
+- Prendre la pioche pour détruire la montagne de roche (celui avec le texte qui dit ''Il y a quelque chose dans la roche'')
 - Prendre la potion rouge qui te téléportera à la deuxième scène
 ## Dans la deuxième scène
 Il faut:
